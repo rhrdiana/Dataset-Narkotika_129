@@ -1,9 +1,6 @@
 # A Legal Document Dataset of Narcotics and Psychotropic Criminal Court Decisions
 
-Repositori ini merupakan kumpulan dataset dokumen hukum yang dikembangkan untuk memenuhi penugasan mata kuliah **Information Retrieval (IR) / Analisis Hukum**. Dataset berisi dokumen putusan pengadilan tingkat pertama terkait tindak pidana narkotika dan psikotropika yang bersumber dari Pengadilan Negeri Pangkalpinang.
-
-Dataset ini dilengkapi dengan metadata terstruktur dalam format spreadsheet untuk mendukung pengembangan, pengujian, dan evaluasi sistem *Information Retrieval*, khususnya dalam proses pencarian informasi dan ekstraksi informasi dari dokumen hukum.
-
+Repositori ini merupakan kumpulan dataset dokumen hukum yang dikembangkan untuk memenuhi penugasan mata kuliah **Information Retrieval (IR)**. Dataset berisi dokumen putusan pengadilan tingkat pertama terkait tindak pidana narkotika dan psikotropika yang bersumber dari Pengadilan Negeri Pangkalpinang.
 ---
 
 ## 1. Dataset Overview
