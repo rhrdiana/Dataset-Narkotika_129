@@ -1,6 +1,4 @@
-# Dataset-Narkotika_129
-
-**A Legal Document Dataset of Narcotics and Psychotropic Criminal Court Decisions**
+# A Legal Document Dataset of Narcotics and Psychotropic Criminal Court Decisions
 
 Repositori ini merupakan kumpulan dataset dokumen hukum yang dikembangkan untuk memenuhi penugasan mata kuliah **Information Retrieval (IR) / Analisis Hukum**. Dataset berisi dokumen putusan pengadilan tingkat pertama terkait tindak pidana narkotika dan psikotropika yang bersumber dari Pengadilan Negeri Pangkalpinang.
 
